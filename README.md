@@ -49,7 +49,11 @@ ng g component Content
 
 ```
 
+<<<<<<< HEAD
 ### Configure Routing in app-routing.module.ts
+=======
+### Configure Routing for the HomeComponent and NotFoundComponent in app-routing.module.ts
+>>>>>>> 6885a96a5df8638de79befb2ad6677f975e426d4
 
 ```javascript
 
@@ -74,7 +78,11 @@ export class AppRoutingModule { }
 
 ```
 
+<<<<<<< HEAD
 ### Add Services to app.module.ts
+=======
+### Add Adal4Service and Adal4HTTPService to app.module.ts
+>>>>>>> 6885a96a5df8638de79befb2ad6677f975e426d4
 
 ```javascript
 

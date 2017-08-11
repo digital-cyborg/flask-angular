@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
+<<<<<<< HEAD
     // Inject authentication Services
   constructor(private service: Adal4Service, private http: Adal4HTTPService) { }
 
@@ -40,4 +41,11 @@ export class HomeComponent implements OnInit {
   }
 
 
+=======
+  constructor() { }
+
+  ngOnInit() {
+  }
+
+>>>>>>> 6885a96a5df8638de79befb2ad6677f975e426d4
 }
