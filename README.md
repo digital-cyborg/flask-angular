@@ -1,4 +1,4 @@
-# Fa4DigitalcybOrg Website Application
+# DigitalcybOrg Website Application
 ___
 
 This Angular 4 application is the client component for access to digitalcyb.org services.
