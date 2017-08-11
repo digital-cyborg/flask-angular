@@ -8,6 +8,15 @@ Dev  : https://api.dev.digitalcyb.org/
 Test : https://api.test.digitalcyb.org/
 Prod : https://api.digitalcyb.org/
 
+
+Run Gulp to build and publish the module
+
+```bash
+
+gulp publish
+
+```
+
 ___
 
 ## Change Log

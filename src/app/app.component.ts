@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { Http } from '@angular/http';
 import { Adal4Service } from 'adal-angular4';
 
 const config: adal.Config = {
